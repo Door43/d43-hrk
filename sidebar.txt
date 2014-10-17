@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hrk:home|Door43 (hrk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hrk|d43-hrk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hrk/archive/master.zip|d43-hrk.zip]]
+
+**Recent Changes**
+{{changes>ns = hrk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hrk|Ethnologue data]]
+
